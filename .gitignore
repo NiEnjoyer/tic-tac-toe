@@ -1,0 +1,7 @@
+bin
+prog/.vscode
+.vscode
+.vscode/*
+prog/.vscode/*
+Debug
+
