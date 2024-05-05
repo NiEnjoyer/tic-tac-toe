@@ -2,4 +2,5 @@
 
 Prosty program służący do liczenia wyników meczy ligi KiK
 
-Aby zkompilować własny program wystarczy tylko wrzucić prog/main.cpp do kompilatora
+Aby zkompilować własny program wystarczy tylko wrzucić prog/main.cpp do kompilatora.
+Pliki tekstowe umieścić obok powstałego pliku exe
